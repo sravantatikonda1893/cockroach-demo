@@ -1,0 +1,1 @@
+insert into transaction(transactionId, accountNbr , txnSrc,txnType) values('1','x07678908','CMA','non_trade');
